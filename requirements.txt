@@ -1,0 +1,4 @@
+gnews>=0.3
+transformers>=4.30
+pandas>=2.0
+language-tool-python>=2.7
